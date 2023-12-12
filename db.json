@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "age": 25,
+      "email": "johnsmith@gmail.com",
+      "address": "No-26, Poonagary, Kilinochchi, Sri Lanka.",
+      "city": "Kilinochchi"
+    },
+    {
+      "id": 2,
+      "name": "Janushan",
+      "age": 28,
+      "email": "jane.doe@gmail.com",
+      "address": "123 Main St, Anytown, USA",
+      "city": "town"
+    },
+    {
+      "id": 3,
+      "name": "Alex",
+      "age": 22,
+      "email": "alex.jones@yahoo.com",
+      "address": "456 Oak Avenue, Springfield, Canada",
+      "city": "Springfield"
+    },
+    {
+      "id": 4,
+      "name": "Emily",
+      "age": 30,
+      "email": "emily.smith@hotmail.com",
+      "address": "789 Pine Street, Rivertown, Australia",
+      "city": "Rivertown"
+    },
+    {
+      "id": 5,
+      "name": "David",
+      "age": 26,
+      "email": "david.jenkins@gmail.com",
+      "address": "101 Cedar Lane, Hilltop, UK",
+      "city": "Hilltop"
+    },
+    {
+      "id": 6,
+      "name": "Sarah",
+      "age": 23,
+      "email": "sarah.brown@gmail.com",
+      "address": "222 Willow Street, Valley City, New Zealand",
+      "city": "Valley City"
+    },
+    {
+      "id": 7,
+      "name": "Oliver",
+      "age": 27,
+      "email": "oliver.white@gmail.com",
+      "address": "42 Elm Grove, Lakeside, England",
+      "city": "Lakeside"
+    },
+    {
+      "id": 8,
+      "name": "Sophie",
+      "age": 24,
+      "email": "sophie.martin@yahoo.co.uk",
+      "address": "55 Birch Street, Woodland, Scotland",
+      "city": "Woodland"
+    },
+    {
+      "id": 9,
+      "name": "Harry",
+      "age": 29,
+      "email": "harry.clark@gmail.com",
+      "address": "88 Pine Close, Hillside, Wales",
+      "city": "Hillside"
+    },
+    {
+      "id": 10,
+      "name": "Amelia",
+      "age": 26,
+      "email": "amelia.jones@hotmail.co.uk",
+      "address": "99 Oak Avenue, Cliffside, Northern Ireland",
+      "city": "Cliffside"
+    },
+    {
+      "id": 11,
+      "name": "Daniel",
+      "age": 28,
+      "email": "daniel.smith@yahoo.co.uk",
+      "address": "77 Maple Lane, Riverside, Isle of Man",
+      "city": "Riverside"
+    },
+    {
+      "id": 12,
+      "name": "Grace",
+      "age": 31,
+      "email": "grace.wilson@gmail.com",
+      "address": "12 Willow Road, Greenfield, England",
+      "city": "Greenfield"
+    },
+    {
+      "id": 13,
+      "name": "Jack",
+      "age": "43",
+      "email": "jack.morris@yahoo.co.uk",
+      "address": "34 Birch Street, Lakeside, Scotland",
+      "city": "Lakeside"
+    },
+    {
+      "id": 14,
+      "name": "Lily",
+      "age": 27,
+      "email": "lily.brown@hotmail.co.uk",
+      "address": "56 Pine Close, Hilltop, Wales",
+      "city": "Hilltop"
+    },
+    {
+      "id": 15,
+      "name": "Samuel",
+      "age": 30,
+      "email": "samuel.cook@yahoo.co.uk",
+      "address": "78 Maple Lane, Riverside, Northern Ireland",
+      "city": "Riverside"
+    },
+    {
+      "id": 16,
+      "name": "Mia",
+      "age": 26,
+      "email": "mia.davies@gmail.com",
+      "address": "90 Oak Avenue, Cliffside, Isle of Man",
+      "city": "Cliffside"
+    },
+    {
+      "0": "",
+      "name": "Murugamoorthy",
+      "age": "25",
+      "email": "parmilancs2024@gmail.com",
+      "address": "No-26, Model Village, Poonagary",
+      "city": "Kilinochchi",
+      "id": 17
+    }
+  ]
+}
