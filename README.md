@@ -1,10 +1,13 @@
 # 👋👋*React Crud Operation*👋👋
+Vercel Project Link -> https://crud-project-02.vercel.app
 1. React + Vite
 2. Json Server
 3. Recat Toastify
 4. Tailwind CSS
 
-https://crud-project-02.vercel.app
+Run
+# React -> npm run dev
+# Json Server -> json-server --watch db.json --port 8000
 
 # 👋👋*Main Page*👋👋
 ![Main Page](https://github.com/parmilan1998/crud-project-02/assets/103124559/85637161-7139-4900-9934-309e836d1cc1)
