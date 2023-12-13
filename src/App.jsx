@@ -45,7 +45,7 @@ function App() {
             </button>
           </Link>
         </div>
-        <div className='flex justify-center items-center'>
+        <div className='flex justify-center items-center overflow-x-auto'>
           <table className='table-fixed'>
             <thead>
               <tr className='bg-indigo-500 text-white'>

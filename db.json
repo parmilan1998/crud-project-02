@@ -5,7 +5,7 @@
       "name": "John",
       "age": 25,
       "email": "johnsmith@gmail.com",
-      "address": "No-26, Poonagary, Kilinochchi, Sri Lanka.",
+      "address": "No-209,Rain Road, Sri Lanka.",
       "city": "Kilinochchi"
     },
     {
@@ -130,12 +130,21 @@
     },
     {
       "0": "",
-      "name": "Murugamoorthy",
+      "name": "Ramu",
       "age": "25",
-      "email": "parmilancs2024@gmail.com",
-      "address": "No-26, Model Village, Poonagary",
+      "email": "admin@gmail.com",
+      "address": "No-290, Temple Road",
       "city": "Kilinochchi",
       "id": 17
+    },
+    {
+      "0": "",
+      "name": "Parmilan",
+      "age": "24",
+      "email": "admininfo@gmail.com",
+      "address": "No-26, Model Vilaage",
+      "city": "Jaffna",
+      "id": 18
     }
   ]
 }
