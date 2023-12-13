@@ -1,8 +1,19 @@
-# React + Vite
+# 👋👋*React Crud Operation*👋👋
+Vercel Project Link -> https://crud-project-02.vercel.app
+1. React + Vite
+2. Json Server
+3. Recat Toastify
+4. Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Run
+# React -> npm run dev
+# Json Server -> json-server --watch db.json --port 8000
 
-Currently, two official plugins are available:
+# 👋👋*Main Page*👋👋
+![Main Page](https://github.com/parmilan1998/crud-project-02/assets/103124559/85637161-7139-4900-9934-309e836d1cc1)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 👋👋*Add New Data*👋👋
+![Add Data](https://github.com/parmilan1998/crud-project-02/assets/103124559/64e784dc-06db-4071-bf5d-16f5fd2abfc5)
+
+# 👋👋*Update Data*👋👋
+![Update Data](https://github.com/parmilan1998/crud-project-02/assets/103124559/40d2ab1e-c1bf-413f-9405-71e266bd452e)
