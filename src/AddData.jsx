@@ -24,7 +24,7 @@ const Create = () => {
         </h2>
         <form className='space-y-3' onSubmit={handleSubmit}>
           <div className='flex flex-col space-y-1 col-span-full'>
-            <label htmlFor='name'>Fullname</label>
+            <label htmlFor='name'>Name</label>
             <input
               required
               type='text'
